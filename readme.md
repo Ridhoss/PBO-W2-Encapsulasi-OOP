@@ -1,8 +1,8 @@
 # Tugas PBO Teori dan Praktik
 
-Nama: Ridho Sulistyo S
-Kelas: 2B - D3 Teknik Informatika
-NIM : 241511059
+- Nama: Ridho Sulistyo S
+- Kelas: 2B - D3 Teknik Informatika
+- NIM : 241511059
 
 ## Penjelasan Tugas
 
